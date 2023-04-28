@@ -24,17 +24,17 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it",
 			"required": false,
-			"value": "DarkWinzo"
+			"value": "KUSHAN SEWMINA"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "94725668277"
 		},
 		"OPEN_AI_KEY": {
 			"description": "Enter Open AI api key here",
 			"required": true,
-			"value": ""
+			"value": "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"
 		},
 		"LANGUAGE": {
 			"description": "Enter bot working language EN / SI / ML",
